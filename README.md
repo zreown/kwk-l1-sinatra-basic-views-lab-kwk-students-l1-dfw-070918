@@ -27,3 +27,4 @@ and loads `index.erb` in the browser.
 
 <p data-visibility='hidden'>KWK-L1 Sinatra
 Basic Views Lab</p>
+
